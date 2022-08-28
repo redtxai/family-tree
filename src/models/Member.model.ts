@@ -6,6 +6,6 @@ export type Member = {
   cod?: string
 
   parents?: number[]
-  partner?: number[]
+  partners?: number[]
   children?: { [key: number]: number[] }
 }

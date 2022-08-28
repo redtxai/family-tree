@@ -1,3 +1,5 @@
+import React from 'react';
+
 import { Member } from '../../models/Member.model';
 import './MemberBox.scss';
 
